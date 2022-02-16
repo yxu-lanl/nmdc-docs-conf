@@ -6,37 +6,37 @@ NMDC
    :maxdepth: 2
    :caption: NMDC Overview:
 
-   chapters/overview/0_overview.rst
+   overview/nmdc_overview.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: Standards:
 
-   chapters/standards/home.md
-   chapters/standards/index.md
-   chapters/standards/Metadata_Documentation_Overview.md 
-   chapters/standards/schema-validation.md
-   chapters/standards/identifiers.md
-   chapters/standards/NMDC_MIxS_Soil_documentation.md
-   chapters/standards/credits.md  
+   standards/home.md
+   standards/index.md
+   standards/Metadata_Documentation_Overview.md 
+   standards/schema-validation.md
+   standards/identifiers.md
+   standards/NMDC_MIxS_Soil_documentation.md
+   standards/credits.md  
 
 .. toctree::
    :maxdepth: 2
    :caption: NMDC Workflows:
 
-   chapters/workflows/overview.rst
-   chapters/workflows/1_RQC_index.rst
-   chapters/workflows/2_ReadAnalysis_index.rst
-   chapters/workflows/3_MetaGAssemly_index.rst
-   chapters/workflows/4_MetaGAnnotation_index.rst
-   chapters/workflows/5_MAG_index.rst
-   chapters/workflows/6_MetaT_index.rst
-   chapters/workflows/7_Metaproteomics_index.rst
-   chapters/workflows/8_Metabolomics_index.rst
-   chapters/workflows/9_NOM_index.rst
+   workflows/overview.rst
+   workflows/1_RQC_index.rst
+   workflows/2_ReadAnalysis_index.rst
+   workflows/3_MetaGAssemly_index.rst
+   workflows/4_MetaGAnnotation_index.rst
+   workflows/5_MAG_index.rst
+   workflows/6_MetaT_index.rst
+   workflows/7_Metaproteomics_index.rst
+   workflows/8_Metabolomics_index.rst
+   workflows/9_NOM_index.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: NMDC Portal:
 
-   chapters/portal_guide/portal_guide.rst
+   portal_guide/index.rst
