@@ -1,2 +1,8 @@
-recommonmark
-sphinx_markdown_tables
+docutils==0.17.1
+linkml >= 1.1.9
+jq
+mkdocs
+pandoc
+twine
+build
+wheel
