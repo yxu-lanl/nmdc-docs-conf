@@ -1,3 +1,5 @@
+gitpython
+pipenv
 sphinx
 docutils==0.17.1
 linkml >= 1.1.9
